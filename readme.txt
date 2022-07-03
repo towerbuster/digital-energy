@@ -8,4 +8,4 @@ Try renaming the files to add your name as a suffix for a remote broadcast (unco
 "wealth (John Smith).wav" for example if your name is "John Smith."
 Leave the PC running with the files on repeat and it should broadcast to you remotely.
 
-The more files you open, the stronger the energy fields get, I hypothesize.
+The more files you open, the stronger the energy fields get, I hypothesize. You can open several of the same file also.
